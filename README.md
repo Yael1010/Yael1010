@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- BLUE CITY-POP BANNER -->
 <a href="https://github.com/Yael1010">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/assets/banner-dark.svg">
@@ -91,6 +90,18 @@
 
 ---
 
+## `$ git log --visual`
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Yael1010&show_icons=true&theme=transparent&hide_border=true&title_color=0D6EFD&icon_color=38BDF8&text_color=93C5FD" alt="Estadísticas de GitHub de Yael">
+
+  <img height="170" src="https://streak-stats.demolab.com?user=Yael1010&theme=transparent&hide_border=true&ring=0D6EFD&fire=38BDF8&currStreakLabel=0D6EFD&sideLabels=93C5FD&dates=93C5FD" alt="Racha de contribuciones de Yael">
+</p>
+
+<p align="center"><sub><code>signals: commit_activity · contribution_streak · status: consistent</code></sub></p>
+
+---
+
 ## `$ connect --socials`
 
 <div align="center">
@@ -111,5 +122,5 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 💙, café y curiosidad por crear · @Yael1010</sub>
+<sub>Hecho por · @Yael1010</sub>
 </div>
