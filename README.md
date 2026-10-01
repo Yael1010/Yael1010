@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- BLUE CITY-POP BANNER -->
+
 <a href="https://github.com/Yael1010">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
