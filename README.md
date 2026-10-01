@@ -1,11 +1,11 @@
 <div align="center">
 
-
+<!-- BLUE CITY-POP BANNER -->
 <a href="https://github.com/Yael1010">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-light.svg" width="960" alt="Perfil de Yael, estudiante de Ingeniería de Software">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/assets/banner-light.svg">
+    <img src="assets/assets/banner-light.svg" width="960" alt="Perfil de Yael, estudiante de Ingeniería de Software">
   </picture>
 </a>
 
@@ -24,7 +24,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-terminal.svg" width="960" alt="Terminal con el perfil de Yael, estudiante de Ingeniería de Software">
+  <img src="assets/assets/whoami-terminal.svg" width="960" alt="Terminal con el perfil de Yael, estudiante de Ingeniería de Software">
 </p>
 
 <br>
@@ -76,14 +76,14 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-light.svg" width="390" alt="Radar de áreas de desarrollo">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/assets/radar-light.svg">
+    <img src="assets/assets/radar-light.svg" width="390" alt="Radar de áreas de desarrollo">
   </picture>&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-    <img src="assets/radar-langs-light.svg" width="390" alt="Radar de lenguajes y tecnologías">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/assets/radar-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/assets/radar-langs-light.svg">
+    <img src="assets/assets/radar-langs-light.svg" width="390" alt="Radar de lenguajes y tecnologías">
   </picture>
 </p>
 
