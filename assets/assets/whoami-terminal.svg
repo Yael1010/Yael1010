@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-label="Terminal profile for Yael">
+  <rect width="960" height="360" rx="14" fill="#071426"/><rect x="0" y="0" width="960" height="42" rx="14" fill="#0e2444"/><rect x="0" y="28" width="960" height="14" fill="#0e2444"/>
+  <circle cx="28" cy="21" r="7" fill="#fb7185"/><circle cx="52" cy="21" r="7" fill="#fbbf24"/><circle cx="76" cy="21" r="7" fill="#34d399"/>
+  <text x="105" y="27" fill="#bfdbfe" font-family="monospace" font-size="15">yael@github: ~</text>
+  <text x="48" y="82" fill="#38bdf8" font-family="monospace" font-size="17">$ whoami</text>
+  <text x="48" y="120" fill="#e0f2fe" font-family="monospace" font-size="25" font-weight="700">Ángel Yael Flores Campos</text>
+  <text x="48" y="151" fill="#93c5fd" font-family="monospace" font-size="16">student · software engineering · future software builder</text>
+  <text x="48" y="202" fill="#38bdf8" font-family="monospace" font-size="17">$ cat current_focus.txt</text>
+  <text x="48" y="235" fill="#dbeafe" font-family="monospace" font-size="16">→ Web development, backend services and mobile apps.</text>
+  <text x="48" y="264" fill="#dbeafe" font-family="monospace" font-size="16">→ Learning through projects with Java, Python and JavaScript.</text>
+  <text x="48" y="293" fill="#dbeafe" font-family="monospace" font-size="16">→ Interested in useful, well-designed and scalable software.</text>
+  <text x="48" y="332" fill="#60a5fa" font-family="monospace" font-size="16">status: coding_while_learning █</text>
+</svg>
